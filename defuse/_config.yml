@@ -1,9 +1,6 @@
 # Site settings
 title: Defuse the Situation
 
-# Theme settings
-theme: jekyll-theme-minimal
-
 # YAML Front Matter settings
 yaml_front_matter: true
 
